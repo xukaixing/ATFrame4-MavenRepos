@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 16:09:57 CST 2020
+classworlds-1.1.jar>nexus-releases=
+classworlds-1.1.pom>nexus-releases=

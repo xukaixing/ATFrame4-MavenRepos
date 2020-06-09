@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 16:00:54 CST 2020
+itext-2.0.4.jar>nexus-releases=
+itext-2.0.4.pom>nexus-releases=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 02:24:24 CST 2020
+http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583432664790
+639348f658e82c65949f0dba28dfd0da68981e30@default-nexus-releases-http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583432620583
+639348f658e82c65949f0dba28dfd0da68981e30@default-nexus-releases-http\://scisoft.eicp.net\:7071/repository/sciframe4-public/.lastUpdated=1583224437610
+http\://scisoft.eicp.net\:7071/repository/sciframe4-public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-container-default\:jar\:1.0-alpha-30 from/to nexus-releases (http\://scisoft.eicp.net\:7071/repository/sciframe4-public/)\: Failed to transfer file\: http\://scisoft.eicp.net\:7071/repository/sciframe4-public/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.jar. Return code is\: 500 , ReasonPhrase\:javax.servlet.ServletException\: org.sonatype.nexus.blobstore.api.BlobStoreException\: BlobId\: tmp$ec90ba46-5eba-465d-bfb1-d76cfc32c4a2, java.net.SocketTimeoutException\: Read timed out, Cause\: Read timed out.

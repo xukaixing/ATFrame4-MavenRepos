@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 16:50:31 CST 2020
+fastjson-1.2.51.jar>nexus-releases=
+fastjson-1.2.51.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 09 20:44:23 CST 2020
+http\://127.0.0.1\:7071/repository/sciframe4-public/.error=Could not transfer artifact com.sciframe\:sciframe-impl\:pom\:4.1.2 from/to nexus-releases (http\://127.0.0.1\:7071/repository/sciframe4-public/)\: Connect to 127.0.0.1\:7071 [/127.0.0.1] failed\: Connection refused (Connection refused)
+f3b992394d4ed445da2e2138fc40fbebe2019a9a@default-nexus-releases-http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583757863311

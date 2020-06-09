@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 16:38:03 CST 2020
+log4j-1.2.12.jar>nexus-releases=
+log4j-1.2.12.pom>nexus-releases=

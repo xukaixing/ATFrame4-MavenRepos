@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 12 14:46:04 CST 2020
+http\://127.0.0.1\:7071/repository/sciframe4-public/.error=Could not transfer artifact webservice\:cxf-xjc-ts\:jar\:javadoc\:2.4.0 from/to nexus-releases (http\://127.0.0.1\:7071/repository/sciframe4-public/)\: Failed to connect to /127.0.0.1\:7071
+f3b992394d4ed445da2e2138fc40fbebe2019a9a@default-nexus-releases-http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583995564870

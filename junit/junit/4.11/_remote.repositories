@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 17:08:42 CST 2020
+junit-4.11.jar>nexus-releases=
+junit-4.11.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 02:58:37 CST 2020
+http\://127.0.0.1\:7071/repository/sciframe4-public/.error=Could not transfer artifact org.codehaus.mojo\:sonar-maven-plugin\:pom\:2.1 from/to nexus-maven (http\://127.0.0.1\:7071/repository/sciframe4-public/)\: Not authorized , ReasonPhrase\:Unauthorized.
+@default-nexus-maven-http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583434717608

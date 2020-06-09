@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 26 16:48:27 CST 2020
+sciframe-platform-4.2.1.jar>=
+sciframe-platform-4.2.1.pom>=

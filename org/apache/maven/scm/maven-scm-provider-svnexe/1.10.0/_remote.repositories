@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 02:27:53 CST 2020
+maven-scm-provider-svnexe-1.10.0.jar>nexus-releases=
+maven-scm-provider-svnexe-1.10.0.pom>nexus-releases=

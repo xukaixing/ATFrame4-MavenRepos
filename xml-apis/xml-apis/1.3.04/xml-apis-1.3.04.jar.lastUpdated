@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 02:24:24 CST 2020
+http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583432664800
+639348f658e82c65949f0dba28dfd0da68981e30@default-nexus-releases-http\://127.0.0.1\:7071/repository/sciframe4-public/.lastUpdated=1583432620595
+639348f658e82c65949f0dba28dfd0da68981e30@default-nexus-releases-http\://scisoft.eicp.net\:7071/repository/sciframe4-public/.lastUpdated=1583224437617
+http\://scisoft.eicp.net\:7071/repository/sciframe4-public/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.3.04 from/to nexus-releases (http\://scisoft.eicp.net\:7071/repository/sciframe4-public/)\: Failed to transfer file\: http\://scisoft.eicp.net\:7071/repository/sciframe4-public/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar. Return code is\: 500 , ReasonPhrase\:javax.servlet.ServletException\: org.sonatype.nexus.blobstore.api.BlobStoreException\: BlobId\: tmp$576ad057-3444-4f22-985e-d2e8dcd1d8ab, java.net.SocketTimeoutException\: Read timed out, Cause\: Read timed out.

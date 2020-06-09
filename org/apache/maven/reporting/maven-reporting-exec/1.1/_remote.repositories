@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 16:33:57 CST 2020
+maven-reporting-exec-1.1.jar>nexus-releases=
+maven-reporting-exec-1.1.pom>nexus-releases=
